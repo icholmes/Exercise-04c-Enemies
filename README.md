@@ -1,6 +1,7 @@
 # Exercise-04c-Enemies
 
 ## Implementation
+Added enemies into our 2D platformer.
 
 ## References
 
@@ -12,6 +13,7 @@ Pixel Platformer tiles provided by Kenney.nl
 https://kenney.nl/assets/pixel-platformer
 
 ## Future Development
+Tilemap coins.
 
 ## Created by
-Nathan Mishler
+Izzy Holmes
